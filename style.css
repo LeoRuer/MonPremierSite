@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+  font-family: Monospace;
+  font-size: 20px;
+  background-color: lightblue;
+}
+
+form {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+body > h1 {
+  color: blue;
+}
+
+img {
+  border-radius: 300px;
+}
